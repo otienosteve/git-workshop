@@ -1,0 +1,3 @@
+ ammend commits 
+https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#:~:text=The%20interactive%20rebase%20gives%20you,first%20one%20it%20will%20replay.
+
